@@ -25,14 +25,20 @@ and 1 and some new statistical features are added. Also, I created 10 subsets (t
 
 ### 4 - Regression
 
-Since labels of this dataset are ordinal, it is possible to apply regression on it. Once regression is fitted, I have to find the optimum
-boundaries to separate predictions in 3 bins. In this notebook, I fit linear regression, softmax regression, elastic net and degre 2 
-polynomial regression (with some tricks to avoid lack of memory).
+Since labels of this dataset are ordinal, it is possible to apply regression on it. Once regression is fitted, I have to find the optimum boundaries to separate predictions in 3 bins. In this notebook, I fit linear regression, softmax regression, elastic net and degre 2 polynomial regression (with some tricks to avoid lack of memory).
 
 ### 5 - Classifiers
 
+In this notebook, I fit then evaluate by crossvalidation some of the most used algorithms for classification : Decision Tree, Random Forest and Nearest Neighbors. I also tune them by using skopt library.
+
 ### 6 - Multi Layered Perceptron
+
+Here come the deep learning ! In this notebook, I design and tune the best neural network to suit this dataset. I use regularization, optimizers and control the learning curves to avoid overfitting.
 
 ### 7 - Ensemble Learning
 
+Now that we have algorithms from decent to good, I use the power of ensemble learning to get a slight boost to my current best score.
+
 ### 8 - Error and bias analysis of each algorithm
+
+Coming soon !
