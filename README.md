@@ -42,3 +42,10 @@ Now that we have algorithms from decent to good, I use the power of ensemble lea
 ### 8 - Error and bias analysis of each algorithm
 
 Coming soon !
+
+
+## Acknowledgment
+
+I have acquired most of the tools and knowledge applied in this project by following the [*MSc. Big Data*](https://www.uws.ac.uk/study/postgraduate/postgraduate-course-search/big-data/) of the University of the West of Scotland and I would like to express here my gratitude to my lecturers.
+
+I also learned a lot of advanced techniques in Aurelien Geron's book, [*Hands-On Machine Learning with Scikit-Learn, Keras & Tensorflow*](https://github.com/ageron/handson-ml2) and I highly recommend this book to whoever is looking to improve him- or herself in mathematical background and Python for Data Science.
