@@ -21,7 +21,7 @@ this dataset later in preprocessing.
 
 In this notebook the dataset is shaped to suit machine learning algorithms. Outliers from training set are removed, categorical features are
 either dropped or grouped together and then one hot encoded, real features are scaled between 0 and 1, labels are also scaled between 0 
-and 1 and some new statistical features are added. Also, I created 10 subsets (train,test) for crossvalidation.
+and 1 and some new statistical features are added. Also, I created 5 subsets (train,test) for crossvalidation + 1 for final validation.
 
 ### 4 - Regression
 
