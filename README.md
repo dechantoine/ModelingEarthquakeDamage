@@ -23,6 +23,12 @@ In this notebook the dataset is shaped to suit machine learning algorithms. Outl
 either dropped or grouped together and then one hot encoded, real features are scaled between 0 and 1, labels are also scaled between 0 
 and 1 and some new statistical features are added. Also, I created 5 subsets (train,test) for crossvalidation + 1 for final validation.
 
+
+
+Here is an illustration of how I will proceed from this point:
+
+![Data Flow](https://github.com/dechantoine/ModelingEarthquakeDamage/blob/master/data%20process.jpg)
+
 ### 4 - Regression
 
 Since labels of this dataset are ordinal, it is possible to apply regression on it. Once regression is fitted, I have to find the optimum boundaries to separate predictions in 3 bins. In this notebook, I fit linear regression, softmax regression, elastic net and degre 2 polynomial regression (with some tricks to avoid lack of memory).
