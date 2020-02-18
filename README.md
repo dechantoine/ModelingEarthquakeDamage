@@ -41,7 +41,7 @@ In this notebook, I fit then evaluate by crossvalidation some of the most used a
 
 Here come the deep learning ! In this notebook, I design and tune the best neural network to suit this dataset. I use regularization, optimizers and control the learning curves to avoid overfitting.
 
-### 7 - Ensemble Learning
+### 7 - Performance analysis, Ensemble Learning and Submission
 
 Now that we have algorithms from decent to good, I use the power of ensemble learning to get a slight boost to my current best score +
 I analyze error and bias of each algorithm.
