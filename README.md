@@ -35,7 +35,7 @@ Since labels of this dataset are ordinal, it is possible to apply regression on 
 
 ### 5 - Classifiers
 
-In this notebook, I fit then evaluate by crossvalidation some of the most used algorithms for classification : Decision Tree, Random Forest and Nearest Neighbors. I also tune them by using skopt library.
+In this notebook, I fit then evaluate by crossvalidation some of the most used algorithms for classification : Random Forest, Extra Trees, XGBoost and Nearest Neighbors. I also tune them by using skopt library.
 
 ### 6 - Multi Layered Perceptron
 
