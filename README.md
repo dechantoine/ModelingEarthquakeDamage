@@ -5,7 +5,7 @@ In this repository lies the complete, cleaned and commented notebooks I have pro
 Based on aspects of building location and construction, my goal is to predict the level of damage to buildings caused by the 2015 Gorkha 
 earthquake in Nepal. All the data have been previously anonymized and dataset are available on [DrivenData.org](https://www.drivendata.org/competitions/57/nepal-earthquake/data/)
 
-I chose to present this work in 8 thematics notebooks.
+I chose to present this work in 7 thematics notebooks.
 
 ### 1 - Exploration part. 1
 
@@ -43,11 +43,9 @@ Here come the deep learning ! In this notebook, I design and tune the best neura
 
 ### 7 - Ensemble Learning
 
-Now that we have algorithms from decent to good, I use the power of ensemble learning to get a slight boost to my current best score.
+Now that we have algorithms from decent to good, I use the power of ensemble learning to get a slight boost to my current best score +
+I analyze error and bias of each algorithm.
 
-### 8 - Error and bias analysis of each algorithm
-
-Coming soon !
 
 
 ## Acknowledgment
