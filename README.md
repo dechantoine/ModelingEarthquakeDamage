@@ -46,7 +46,8 @@ Here come the deep learning ! In this notebook, I design and tune the best neura
 Now that we have algorithms from decent to good, I use the power of ensemble learning to get a slight boost to my current best score +
 I analyze error and bias of each algorithm.
 
-
+Finally, here is the best (and final) score I have reached with those notebooks:
+![Score](https://github.com/dechantoine/ModelingEarthquakeDamage/blob/master/my%20submission.jpg)
 
 ## Acknowledgment
 
